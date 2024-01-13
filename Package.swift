@@ -24,6 +24,6 @@ let package = Package(
             url: remoteKotlinUrl,
             checksum: remoteKotlinChecksum
         )
-        ,
-    ]
+    ],
+    swiftLanguageVersions: [.v5]
 )
