@@ -6,12 +6,15 @@ plugins {
 }
 
 rootProject.group = "com.eirikvaa.lib"
+group = "com.eirikvaa.logyourself"
+version = "0.3.0"
 
 addGithubPackagesRepository()
 
 kmmbridge {
     mavenPublishArtifacts()
     spm(useCustomPackageFile = true)
+    manualVersions()
 }
 
 kotlin {
