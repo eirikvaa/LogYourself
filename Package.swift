@@ -2,8 +2,8 @@
 import PackageDescription
 
 // BEGIN KMMBRIDGE VARIABLES BLOCK (do not edit)
-let remoteKotlinUrl = "https://maven.pkg.github.com/eirikvaa/LogYourself/com/eirikvaa/logyourself/shared-kmmbridge/0.2.5/shared-kmmbridge-0.2.5.zip"
-let remoteKotlinChecksum = "a8eb9cf8b3a3c282e02cea2722c3a69a12432af25a3420c97817bd168e2af198"
+let remoteKotlinUrl = "https://maven.pkg.github.com/eirikvaa/LogYourself/com/eirikvaa/logyourself/shared-kmmbridge/0.2.6/shared-kmmbridge-0.2.6.zip"
+let remoteKotlinChecksum = "1a698f8da9922a43a3881cc911ff7bff68e5647c4e4cf0ecb6dcefa994b55efb"
 let packageName = "shared"
 // END KMMBRIDGE BLOCK
 
