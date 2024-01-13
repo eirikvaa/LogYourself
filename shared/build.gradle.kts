@@ -11,7 +11,7 @@ addGithubPackagesRepository()
 
 kmmbridge {
     mavenPublishArtifacts()
-    spm()
+    spm(useCustomPackageFile = true)
 }
 
 kotlin {
