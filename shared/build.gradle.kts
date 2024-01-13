@@ -7,6 +7,8 @@ plugins {
 
 rootProject.group = "com.eirikvaa.lib"
 
+addGithubPackagesRepository()
+
 kmmbridge {
     mavenPublishArtifacts()
     spm()
